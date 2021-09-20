@@ -1,6 +1,6 @@
 //Nao consegui fazer  o segundo :(
 
-var peso = 110
+const peso = 110
 if (peso > 100){
     console.log('Erro! O peso da peça não pode ser maior do que 100g')
 }
