@@ -9,7 +9,7 @@ else {
 } 
 
 const caixa = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
-if (caixa < 10){
+if (caixa.lenght <= 10){
     console.log("Erro! Quantidade de peças superior a 10. Não há capacidade suficiente")
 }
 else{
